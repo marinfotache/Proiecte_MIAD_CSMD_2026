@@ -2,4 +2,4 @@ Acestea sunt seturile de date din care puteți alegere o temă/subiect pentru pr
 
 Pentru ghidaj, în fiecare director asociat unui set de date aveți o scurtă descriere a obiectivelor setului și variabilelor.
 
-După ce vă decideți, vă rugăm să completați indicativul echipei dvs. fișierul cu teme la care linkul este pe WhatsApp.
+După ce vă decideți asupra setului de date, vă rugăm să completați indicativul echipei dvs. fișierul cu teme la care linkul este pe WhatsApp.
