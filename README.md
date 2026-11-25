@@ -1,11 +1,11 @@
-Acestea sunt seturile de date din care puteți alegere o temă/subiect pentru proiectele (în echipă de maxim trei studenți) de analiză exploratorie a datelor (2 decembrie) și Machine Learning (13 ianuarie).
+Acestea sunt seturile de date din care puteți alegere o temă/subiect pentru proiectele (în echipă de maxim trei studenți) de analiză exploratorie a datelor (9 decembrie) și Machine Learning (în jur de 20 ianuarie).
 
 Pentru ghidaj, în fiecare director asociat unui set de date aveți o scurtă descriere a obiectivelor setului și variabilelor.
 
 După ce vă decideți asupra setului de date, vă rog să completați componența echipei (maximul trei studenți în echipă) în fișierul cu teme la care linkul este pe Classroom.
 
 
-## Cerințele proiectului de analiză exploratorie a datelor (2 decembrie) 
+## Cerințele proiectului de analiză exploratorie a datelor (9 decembrie) 
 
 Proiectul se va materializa într-un fișer PDF (pe care îl veți redacta în Word/Libre Office/Google Docs/... și, la final, îl veți converti în .PDF) care să acopere următoarele secțiuni: 
 
@@ -21,7 +21,7 @@ Proiectul va fi prezentat în fața colegilor, fiecare echipă având 10 minute 
 
 
 
-## Cerințele proiectului de machine learning (13 ianuarie) 
+## Cerințele proiectului de machine learning (în jur de 20 ianuarie) 
 
 Proiectul se va materializa într-un fișer PDF (pe care îl veți redacta în Word/Libre Office/Google Docs/... și, la final, îl veți converti în .PDF) care să continue primul proiect, și sp acopere următoarele secțiuni: 
 
